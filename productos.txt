@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Pepsi",
+    "price": 25,
+    "thumbnail": "negra",
+    "id": 1
+  },
+  {
+    "title": "Coca-Cola",
+    "price": 30,
+    "thumbnail": "negra",
+    "id": 2
+  },
+  {
+    "title": "Manaos",
+    "price": 15,
+    "thumbnail": "negra",
+    "id": 3
+  }
+]
